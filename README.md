@@ -35,6 +35,7 @@ Create a `.env` file (use `.env.example`):
 ```env
 VITE_NEWS_API_KEY=
 VITE_AI_TOKEN=
+VITE_EVENTREGISTRY_API_KEY=
 ```
 
 ## Setup Commands
